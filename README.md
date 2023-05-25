@@ -12,7 +12,8 @@ _24 de Mayo de 2022_
 
 En las últimas décadas, hemos sido testigos de una profunda **transformación en la interacción entre los medios y la tecnología**. En este contexto, el concepto de **hibridación**, introducido por el renombrado teórico de medios **Lev Manovich**, adquiere una importancia crucial al describir la **fusión y combinación de elementos diversos** para dar vida a **nuevas formas culturales y tecnológicas**. Manovich sostiene enfáticamente que la hibridación surge como _"el resultado de combinar medios y tecnologías que anteriormente estaban separados"_ (Manovich, 2013).
 
-![pexels-cottonbro-studio-8721339](https://github.com/iofromohio/PEC3_Manovich_Reloaded/assets/134507094/965f727c-c213-4b8b-8533-5e389953fb9a)
+![pexels-cottonbro-studio-8721339 (1)](https://github.com/iofromohio/PEC3_Manovich_Reloaded./assets/134507094/4e42eecd-781e-43e3-852a-d30491a31fd0)
+
 
 
 El **ordenador**, considerado como un **metamedio**, juega un papel fundamental en esta hibridación. Funcionando como una herramienta versátil, el ordenador es capaz de simular medios físicos antiguos y al mismo tiempo desarrollar nuevos medios aún por inventar.  
@@ -31,7 +32,8 @@ A través de este ensayo, analizaremos dos ejemplos concretos de medios híbrido
  
 ## Re-descubriendo la hibridación: Caso 1
 
-![pexels-mo-eid-8657160](https://github.com/iofromohio/PEC3_Manovich_Reloaded/assets/134507094/c2dc204b-a216-4155-a073-10a177a6051c)
+![pexels-mo-eid-8657160 (1)](https://github.com/iofromohio/PEC3_Manovich_Reloaded./assets/134507094/e1c59e18-c019-401c-b1cd-b76e94d511c0)
+
 
 
 **Polycam** ha llevado la fusión de imágenes y tecnología a un nivel completamente nuevo, consiguiendo gracias a la hibridación redefinir la forma en que capturamos y compartimos el mundo que nos rodea.
@@ -50,7 +52,8 @@ Al combinar la captura de imágenes, la tecnología de escaneo, la edición y la
 
 ## Re-descubriendo la hibridación: Caso 2
 
-![pexels-keira-burton-6146933](https://github.com/iofromohio/PEC3_Manovich_Reloaded/assets/134507094/b03c414a-18b6-4c01-8d62-21dc2c3196b0)
+![pexels-keira-burton-6146933 (1)](https://github.com/iofromohio/PEC3_Manovich_Reloaded./assets/134507094/98f7fb6d-5d32-44d6-80ef-7b7a00062ee0)
+
 
 
 SoundHound es una APP cuya base fundamental consiste en su capacidad para **identificar canciones simplemente al escuchar unos segundos de reproducción**. Esta función se basa en algoritmos avanzados de reconocimiento de audio, que comparan las características sonoras de la muestra con una amplia base de datos de canciones. A través de esta aplicación, los usuarios pueden descubrir canciones de su ambiente, obtener información sobre los artistas y compartir sus hallazgos con amigos. 
